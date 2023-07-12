@@ -1,0 +1,8 @@
+D:\mphasis\Day 3\asignment3pro2\asignment3pro2\bin\Debug\asignment3pro2.exe.config
+D:\mphasis\Day 3\asignment3pro2\asignment3pro2\bin\Debug\asignment3pro2.exe
+D:\mphasis\Day 3\asignment3pro2\asignment3pro2\bin\Debug\asignment3pro2.pdb
+D:\mphasis\Day 3\asignment3pro2\asignment3pro2\obj\Debug\asignment3pro2.csproj.AssemblyReference.cache
+D:\mphasis\Day 3\asignment3pro2\asignment3pro2\obj\Debug\asignment3pro2.csproj.SuggestedBindingRedirects.cache
+D:\mphasis\Day 3\asignment3pro2\asignment3pro2\obj\Debug\asignment3pro2.csproj.CoreCompileInputs.cache
+D:\mphasis\Day 3\asignment3pro2\asignment3pro2\obj\Debug\asignment3pro2.exe
+D:\mphasis\Day 3\asignment3pro2\asignment3pro2\obj\Debug\asignment3pro2.pdb
